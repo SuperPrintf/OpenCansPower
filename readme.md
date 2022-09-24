@@ -3,8 +3,8 @@
 
 ##本项目由B站up主 @MJhan是个手搓怪 提供创意以及三维建模
 
-  作者B站主页:https://space.bilibili.com/94128110
-  原视频页面:https://www.bilibili.com/video/BV1NV4y1J7MQ
+  模型作者B站主页:https://space.bilibili.com/94128110
+  原版制作视频页面:https://www.bilibili.com/video/BV1NV4y1J7MQ
   
 ##快充芯片采用英集芯制造的IP5358
 
