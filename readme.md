@@ -6,6 +6,8 @@
   -模型作者B站主页:https://space.bilibili.com/94128110
   -原版制作视频页面:https://www.bilibili.com/video/BV1NV4y1J7MQ
   
+  -立创开源地址:https://oshwhub.com/big_big_A/ke-le-chong-dian-bao
+  
 ##快充芯片采用英集芯制造的IP5358
 
   -该芯片支持双向QC2.0/3.0,双向PD2.0/3.0
